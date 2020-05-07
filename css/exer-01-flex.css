@@ -11,7 +11,7 @@
   display: block;
   width: 97%
   height: 150px;
-  margin: 20px;
+  margin: 10px;
   padding: 10px;
   max-width: 1100px;
 }
@@ -24,9 +24,38 @@
   display: flex;
 }
 
+/*child of box-2*/
+.box-child-1{
+  flex-basis: 250px;
+  height: 150px;
+}
+.box-child-2{
+  flex-grow: 1;
+}
+
+
 .box-3{
   display: flex;
 }
+
+/*child of box-3 4,5 e 6*/
+.box-child-3{
+  flex-basis: 250px;
+  height: 300px;
+}
+.box-child-4{
+  flex-basis: 250px;
+  height: 300px;
+}
+.box-child-5{
+  flex-basis: 250px;
+  height: 300px;
+}
+.box-child-6{
+  flex-basis: 250px;
+  height: 300px;
+}
+
 
 .box-4{
   display: flex;

@@ -12,5 +12,21 @@
   height: 150px;
   margin: 20px;
   padding: 10px;
-  border: 2px solid rgb(101, 209, 237) ;
+  border: 2px solid rgb(242, 247, 249) ;
+}
+
+.box-1{
+  flex-basis: 10%;
+}
+
+.box-2{
+  display: flex;
+}
+
+.box-3{
+  display: flex;
+}
+
+.box-4{
+  display: flex;
 }

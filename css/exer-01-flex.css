@@ -27,22 +27,38 @@
 .box-2-f1 {
   width: 20%;
   border: 1px solid #ff0000;
-  margin-left: 10px;
+  margin-left: 20px;
   margin-bottom: 10px;
 }
 
 .box-2-f2 {
-  width: 80%;
+  width: 74%;
   border: 1px solid #ff0000;
-  margin-left: 20px;
+  margin-left: 30px;
   margin-bottom: 10px;
 }
 
 .box-3 {
   display: flex;
   flex-basis: 40%;
+  flex-direction: row;
+}
+
+.box-3-f {
+  border: 1px solid #ff0000;
+  width: 20%;
+  height: 90%;
+  margin: 10px 3%;
 }
 
 .box-4 {
   flex-basis: 30%;
+}
+
+.box-4-f {
+  margin: 20px auto;
+  border-left: 1px solid #ff0000;
+  border-right: 1px solid #ff0000;
+  width: 55%;
+  height: 80%;
 }

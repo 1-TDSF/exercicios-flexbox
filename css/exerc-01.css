@@ -59,3 +59,7 @@
   height: 200px;
   width: 25%;
 }
+.box-11 {
+  border: 1px solid black;
+  float: right;
+}

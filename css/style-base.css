@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-@charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 *{
@@ -17,3 +16,4 @@ body{
 h1,h2,h3{
   margin: 20px 10px;
 }
+

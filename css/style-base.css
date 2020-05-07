@@ -16,7 +16,6 @@ body{
 h1,h2,h3{
   margin: 20px 10px;
 }
-
 .container {
   width: 97%;
   height: 900px;
@@ -25,3 +24,4 @@ h1,h2,h3{
   background-color: #c2bee6;
   border: 1px solid #cccccc;
 }
+

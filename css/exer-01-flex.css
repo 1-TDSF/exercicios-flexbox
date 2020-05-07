@@ -112,3 +112,17 @@
 .box-6 {
   height: 250px;
 }
+.box-6a {
+    background-color: #000000;
+    flex-basis: 33%;
+}
+
+.box-6b {
+    background-color: #000000;
+    flex-basis: 33%;
+}
+
+.box-6c {
+    background-color: #000000;
+    flex-basis: 33%;
+}

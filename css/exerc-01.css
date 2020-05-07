@@ -61,5 +61,6 @@
 }
 .box-11 {
   border: 1px solid black;
-  float: right;
+  margin-left: 277px;
+  display: flex;
 }

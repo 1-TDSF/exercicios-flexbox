@@ -1,19 +1,42 @@
 
 .box13{
   border: 1px solid white;
-  width: 700px;
+  width: 750px;
   height: 380px;
   margin-bottom: 20px;
+  margin-right: 20px;
+  background-color: red;
 }
 .box14{
   border: 1px solid white;
   width: 360px;
-  height: 200px;
-  margin-bottom: 40px;
-
+  height: 380px;
+  background-color: red;
 }
 .box15{
   border: 1px solid white;
+  width: 350px;
+  height: 200px;
+  margin-right: 20px;
+  background-color: red;
+}
+.box16{
+  border: 1px solid white;
+  width: 350px;
+  height: 200px;
+  margin-right: 20px;
+  background-color: red;
+}
+.box17{
+  border: 1px solid white;
+  width: 350px;
+  height: 200px;
+  background-color: red;
+}
+
+.box18{
+  border: 1px solid white;
   width: 1080px;
-  height: 120px;
+  height: 100px;
+  background-color: red;
 }

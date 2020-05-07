@@ -14,23 +14,48 @@
   display: flex;
   flex-direction: row;
   flex: 1;
+  margin: 16px;
+  border: 1px solid black;
   padding: 16px;
 }
 
-#box1 {
+.box {
   min-height: 256px;
   border: 1px solid black;
 }
 
+#box1 {}
+
 #box2 {
-  min-height: 256px;
   flex-basis: 25%;
-  margin: 16px;
-  border: 1px solid black;
+  margin-right: 16px;
 }
 
 #box3 {
   flex: 1;
-  margin: 16px;
-  border: 1px solid black;
+}
+
+#box4, #box5, #box6, #box7 {
+  flex: 1;
+  margin: 0 8px;
+}
+
+#box8, #box9, #box10 {
+  flex: 1;
+}
+
+#box8 {
+  border: 0;
+  border-right: 1px solid black;
+}
+
+#box9 {
+  border: 0;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+
+#box10 {
+  border: 0;
+  border-left: 1px solid black;
 }

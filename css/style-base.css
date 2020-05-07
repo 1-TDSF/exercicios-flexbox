@@ -24,7 +24,7 @@ h1,h2,h3{
   margin: 10px;
   padding: 10px;
   background-color: black;
-  border: 1px solid #cccccc;
+  border: 1px solid blue;
   display: flex;
   flex-direction: column;
 }

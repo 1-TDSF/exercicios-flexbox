@@ -16,24 +16,12 @@ body{
 h1,h2,h3{
   margin: 20px 10px;
 }
-.container{
+.container {
   width: 97%;
   height: 900px;
-  margin:10px;
   padding: 10px;
+  margin: 10px;
   background-color: #c2bee6;
   border: 1px solid #cccccc;
 }
 
-.retangulo-1{
-
-}
-.retangulo-2{
-
-}
-.retangulo-3{
-
-}
-.retangulo-4{
-
-}

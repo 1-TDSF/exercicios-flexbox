@@ -126,3 +126,10 @@
     background-color: #000000;
     flex-basis: 33%;
 }
+
+.box-7 {
+  height: 150px;
+  background-color: #000000;
+  width: 96%;
+  margin: 10px 30px;
+}

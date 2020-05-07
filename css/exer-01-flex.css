@@ -4,7 +4,7 @@
 .box-master{
   display: flex;
   flex-direction: column;
-  background-color: rgb(112, 122, 214);
+  background-color: rgb(174, 181, 250);
   padding: 16px;
   margin: 16px;
   border-radius: 8px;
@@ -24,7 +24,9 @@
   border: 1px solid black;
 }
 
-#box1 {}
+#box1 {
+  min-height: 200px;
+}
 
 #box2 {
   flex-basis: 25%;
@@ -58,4 +60,35 @@
 #box10 {
   border: 0;
   border-left: 1px solid black;
+}
+
+#box11 {
+  flex-basis: 75%;
+  min-height: 392px;
+  margin-right: 16px;
+}
+
+#box12 {
+  flex: 1;
+}
+
+#box13, #box14, #box15 {
+  min-height: 128px;
+  flex: 1;
+}
+
+#box13 {
+  margin-right: 8px;
+}
+
+#box14 {
+  margin: 0 8px;
+}
+
+#box15 {
+  margin-left: 8px;
+}
+
+#box16 {
+  min-height: 128px;
 }

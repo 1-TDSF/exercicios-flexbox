@@ -9,9 +9,11 @@
 }
 .box-3 {
   display: flex;
+  flex-basis: 35%;
 }
 .box-4 {
   display: flex;
+
 }
 .box {
   border: 1px solid #ff0000;
@@ -32,4 +34,28 @@
   margin: 20px;
   height: 100px;
   width: 80%;
+}
+.box-7 {
+  border: 1px solid black;
+  margin: 20px;
+  height: 200px;
+  width: 25%;
+}
+.box-8 {
+  border: 1px solid black;
+  margin: 20px;
+  height: 200px;
+  width: 25%;
+}
+.box-9 {
+  border: 1px solid black;
+  margin: 20px;
+  height: 200px;
+  width: 25%;
+}
+.box-10 {
+  border: 1px solid black;
+  margin: 20px;
+  height: 200px;
+  width: 25%;
 }

@@ -1,7 +1,36 @@
 @charset "UTF-8";
 @import "./style-base.css";
 
-.container{
+.box-master{
   display: flex;
   flex-direction: column;
+  background-color: rgb(112, 122, 214);
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+}
+
+.box-row {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  padding: 16px;
+}
+
+#box1 {
+  min-height: 256px;
+  border: 1px solid black;
+}
+
+#box2 {
+  min-height: 256px;
+  flex-basis: 25%;
+  margin: 16px;
+  border: 1px solid black;
+}
+
+#box3 {
+  flex: 1;
+  margin: 16px;
+  border: 1px solid black;
 }

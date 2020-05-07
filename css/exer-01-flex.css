@@ -15,7 +15,7 @@
   flex-direction: row;
   flex: 1;
   margin: 16px;
-  border: 1px solid rgb(225, 255, 232);
+  border: 2px solid rgb(225, 255, 232);
   padding: 16px;
 }
 
@@ -27,12 +27,12 @@
 
 .box {
   min-height: 256px;
-  border: 1px solid rgb(225, 255, 232);
+  border: 2px solid rgb(225, 255, 232);
 }
 
 .box-grid {
   min-height: 256px;
-  border: 1px solid rgb(225, 255, 232);
+  border: 2px solid rgb(225, 255, 232);
   display: flex;
   flex-direction: column;
 }
@@ -61,18 +61,18 @@
 
 #box8 {
   border: 0;
-  border-right: 1px solid rgb(225, 255, 232);
+  border-right: 2px solid rgb(225, 255, 232);
 }
 
 #box9 {
   border: 0;
-  border-right: 1px solid rgb(225, 255, 232);
-  border-left: 1px solid rgb(225, 255, 232);
+  border-right: 2px solid rgb(225, 255, 232);
+  border-left: 2px solid rgb(225, 255, 232);
 }
 
 #box10 {
   border: 0;
-  border-left: 1px solid rgb(225, 255, 232);
+  border-left: 2px solid rgb(225, 255, 232);
 }
 
 #box11 {

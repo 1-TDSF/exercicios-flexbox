@@ -15,7 +15,7 @@
 .box-1 {
   flex-basis: 10%;
   height: 100px;
-  background-color: #eec27e;
+  background-color: #f2cf5a;
   margin: 20px 10px;
 }
 
@@ -73,4 +73,13 @@
 
 .box-10 {
   background-color: #a1749f;
+}
+
+.box-11 {
+  flex-basis: 70%;
+  margin: 10px 300px;
+  border-top: none;
+  border-bottom: none;
+  border-left: 2px solid #000000;
+  border-right: 2px solid #000000;
 }

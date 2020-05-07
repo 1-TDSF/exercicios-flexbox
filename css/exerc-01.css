@@ -1,0 +1,23 @@
+
+}
+.box-1 {
+  flex-basis: 10%;
+}
+.box-2 {
+  display: flex;
+}
+.box-3 {
+  display: flex;
+}
+.box-4 {
+  display: flex;
+}
+.box {
+  border: 1px solid #ff0000;
+  display: block;
+  width: 97%;
+  height: 150px;
+  margin: 20px;
+  padding: 10px;
+  max-width: 1100px;
+}

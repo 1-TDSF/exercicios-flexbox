@@ -16,7 +16,7 @@
 
 }
 .box {
-  border: 1px solid #ff0000;
+  border: 1px solid blue;
   width: 97%;
   height: 150px;
   margin: 20px;
@@ -24,47 +24,53 @@
   max-width: 1100px;
 }
 .box-5 {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 20px;
   height: 100px;
   width: 20%;
+  background-color: red;
 }
 .box-6 {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 20px;
   height: 100px;
   width: 80%;
+  background-color: red;
 }
 .box-7 {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 20px;
   height: 200px;
   width: 25%;
+  background-color: red;
 }
 .box-8 {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 20px;
   height: 200px;
   width: 25%;
+  background-color: red;
 }
 .box-9 {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 20px;
   height: 200px;
   width: 25%;
+  background-color: red;
 }
 .box-10 {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 20px;
   height: 200px;
   width: 25%;
+  background-color: red;
 }
 .box-11 {
-  border: 1px solid black;
+  border: 1px solid white;
   margin-left: 277px;
   display: flex;
 }
 .box-12{
-  border: 1px solid black;
+  border: 1px solid white;
   margin-left: 470px;
 }

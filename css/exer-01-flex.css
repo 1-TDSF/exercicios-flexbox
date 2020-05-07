@@ -56,7 +56,16 @@
   height: 300px;
 }
 
-
 .box-4{
   display: flex;
+  justify-content: center;
+}
+
+/*child of box-7*/
+.box-child-7{
+  width: 50%;
+  border-top: 0;
+  border-bottom: 0;
+  height: 100px;
+
 }

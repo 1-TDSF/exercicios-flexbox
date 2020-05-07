@@ -41,45 +41,74 @@
   margin: 10px 10px 10px 10px;
 }
 
-.box-5, .box-6 {
+.box-2a, .box-2b {
   margin: 10px;
 }
-.box-5 {
+.box-2a {
   flex-basis: 20%;
   background-color: #0f9460;
 }
 
-.box-6 {
+.box-2b {
   flex-basis: 80%;
   background-color: #37cb45;
 }
 
-.box-7, .box-8, .box-9, .box-10 {
+.box-3a, .box-3b, .box-3c, .box-3d {
   margin: 10px 40px;
   flex-basis: 25%;
 }
 
-.box-7 {
+.box-3a {
   background-color: #b922a8;
 }
 
-.box-8 {
+.box-3b {
   background-color: #de2387;
 }
 
-.box-9 {
+.box-3c {
   background-color: #e81c4e;
 }
 
-.box-10 {
+.box-3d {
   background-color: #a1749f;
 }
 
-.box-11 {
+.box-4a {
   flex-basis: 70%;
   margin: 10px 300px;
   border-top: none;
   border-bottom: none;
   border-left: 2px solid #000000;
   border-right: 2px solid #000000;
+}
+
+.box-b {
+  width: 99%;
+  padding: 10px;
+  display: block;
+  margin: 10px;
+}
+.box-5, .box-6 {
+  display: flex;
+  flex-direction: row;
+}
+
+.box-5 {
+  height: 400px;
+}
+
+.box-5a {
+  flex-basis: 70%;
+  background-color: #000000;
+}
+
+.box-5b {
+  flex-basis: 30%;
+  background-color: #000000;
+}
+
+.box-6 {
+  height: 250px;
 }

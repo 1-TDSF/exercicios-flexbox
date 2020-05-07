@@ -49,3 +49,23 @@
 .box-4{
   display: flex;
 }
+
+.caix-1{
+  flex-basis: 320px;
+  height: 230px;
+}
+
+.caix-2{
+  flex-basis: 320px;
+  height: 230px;
+}
+
+.caix-3{
+  flex-basis: 320px;
+  height: 230px;
+}
+
+.caix-4{
+  flex-basis: 320px;
+  height: 230px;
+}

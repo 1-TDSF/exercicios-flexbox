@@ -147,10 +147,11 @@
   display: flex;
 }
 
-.box-8 {
+.box-8, .box-13 {
   background-color: #ffffff;
   height: 100px;
-  margin: 5px;
+  margin: auto;
+  width: 99%;
 }
 
 .box-8a {
@@ -169,6 +170,7 @@
 .box-9, .box-11 {
   background-color: #ffffff;
   height: 50px;
+  margin: auto;
 }
 
 .box-10 {
@@ -177,24 +179,24 @@
   display: flex;
 }
 
-.box-10a {
+.box-10a, .box-12a {
   flex-basis: 70%;
   background-color: #000000;
 }
 
-.box-10-divisao {
+.box-10-divisao, .box-12-divisao {
   flex-basis: 30%;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   margin-top: auto;
-  margin-left: auto;
+  margin-right: -30px;  
   margin-bottom: auto;
-  margin-right: -30px;
+  margin-left: auto;
   padding: 13px 13px 13px 0px;
 }
 
-.box-10b, .box-10c, .box-10d, .box-10e {
+.box-10b, .box-10c, .box-10d, .box-10e, .box-12b, .box-12c, .box-12d, .box-12e {
   background-color: #000000;
   flex-basis: 40%;
   display: flex;
@@ -203,14 +205,8 @@
   margin-top: 1px;
 }
 
-.box-11 {
-  background-color: #ffffff;
-}
-
 .box-12 {
   background-color: #ffffff;
-}
-
-.box-13 {
-  background-color: #ffffff;
+  display: flex;
+  flex-direction: row-reverse;
 }

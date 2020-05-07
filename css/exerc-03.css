@@ -1,0 +1,21 @@
+
+.box19{
+
+  border: 1px solid white;
+  margin: 20px;
+  flex-basis: 100px;
+  width: 97%;
+  display: flex;
+}
+.box20{
+  border: 1px solid white;
+  margin: 20px;
+  height: 80px;
+  width: 70%;
+}
+.box21{
+  border: 1px solid white;
+  margin-top: 20px;
+  height: 80px;
+  width: 24%;
+}

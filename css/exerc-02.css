@@ -2,13 +2,18 @@
 .box13{
   border: 1px solid white;
   width: 700px;
-  height: 350px;
-  margin: 0px;
+  height: 380px;
+  margin-bottom: 20px;
 }
 .box14{
   border: 1px solid white;
-  width: 350px;
-  height: 350px;
-  margin: 0px;
-  margin-left: 30px;
+  width: 360px;
+  height: 200px;
+  margin-bottom: 40px;
+
+}
+.box15{
+  border: 1px solid white;
+  width: 1080px;
+  height: 120px;
 }

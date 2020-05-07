@@ -92,3 +92,25 @@
   height: 150px;
   display: flex;
 }
+
+
+.box-filho4{
+  margin: 0 15px 0px 25px;
+  flex-basis: 250px;
+  border-right: 1px solid #000000;
+  height: 125px;
+}
+
+.box-filho41{
+  margin: 0 15px 0px 25px;
+  flex-basis: 195px;
+  border-right: 1px #000000;
+  height: 125px;
+}
+
+.box-filho42{
+  margin: 0 15px 0px 25px;
+  flex-basis: 200px;
+  border-right: 1px solid #000000;
+  height: 125px;
+}

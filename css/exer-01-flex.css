@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @import "./style-base.css";
 
+
 .box-master{
   display: flex;
   flex-direction: column;

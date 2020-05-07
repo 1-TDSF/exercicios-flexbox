@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 .container {
   display: flex;
   flex-direction: column;
@@ -113,4 +114,5 @@
   flex-basis: 250px;
   border-right: 1px solid #000000;
   height: 125px;
+
 }

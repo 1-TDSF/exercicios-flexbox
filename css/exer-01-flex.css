@@ -143,9 +143,28 @@
     margin: 10px;
 }
 
+.box-8, .box-10, .box-12 {
+  display: flex;
+}
+
 .box-8 {
   background-color: #ffffff;
+  height: 100px;
+  margin: 5px;
 }
+
+.box-8a {
+  background-color: #000000;
+  flex-basis: 85%;
+  margin: 1px 10px 1px 5px;
+}
+
+.box-8b {
+  background-color: #000000;
+  flex-basis: 15%;
+  margin: 1px 5px 1px 5px;
+}
+
 
 .box-9 {
   background-color: #ffffff;

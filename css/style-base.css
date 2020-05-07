@@ -18,12 +18,12 @@ h1,h2,h3{
   margin: 20px 10px;
 }
 
-#container{
+.container{
   margin: 10px;
   width: 97%;
   height: 800px;
   padding: 10px;
-  background-color: rgb(197, 92, 233;
-  border: 1px solid rgba(255, 255, 255, 0.96);
+  background-color: rgba(182, 78, 231, 0.81) ;
+  border: 1px solid  #cccccc;
 
 }

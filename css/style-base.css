@@ -20,9 +20,8 @@ h1,h2,h3{
 
 .container{
   width: 97%;
-  height: 1000px;
+  height:700px;
   margin: 10px;
-  
-  background-image: linear-gradient(170deg, #000000, #0a3056);
-  border: 3px solid #900101;
+  background-image: linear-gradient(170deg, #094805, #094805);
+    border: 3px solid #0fff00;
   }

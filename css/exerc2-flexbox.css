@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.container-pai{
+    width: 1100px;
+    height: 740px;
+    margin-left:10vw;
+    border: 1px solid;
+  }
+  .box{
+      display: flex;
+  }
+
+.flexbox-item1{
+    width: 52vw;
+    height: 55vh;
+    border: 1px solid;
+    margin-top: 2vh;
+    margin-left: 2vh;
+
+}
+.flexbox-item2{
+    width: 25vw;
+    height: 55vh;
+    border: 1px solid;
+    margin-top: 2vh;
+    margin-left: 4vh;
+    margin-right: 2vh;
+}
+.flexbox-item3{
+    width: 26vw;
+    height: 31vh;
+    border: 1px solid;
+    margin-top: 4vh;
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+
+.flexbox-item4{
+    width: 79vw;
+    height: 17vh;
+    border: 1px solid;
+    margin-left: 2vh;
+    margin-top: 4vh;
+    margin-right: 2svh;
+}

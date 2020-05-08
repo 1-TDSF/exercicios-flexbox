@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.container-pai{
+    width: 1100px;
+    height: 840px;
+    margin-left:10vw;
+    border: 1px solid;
+}

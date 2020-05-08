@@ -6,18 +6,13 @@
 }
 
 .box{
-  border: 1px solid rgba(13, 255, 9, 0.52);
+  border: 2px solid rgba(0, 20, 255, 0.52);
   display: block;
   width: 97%;
   /*height: 150px;*/
-  margin: 14px;
+  margin: 10px;
   padding: 10px;
   max-width: 1100px;
-}
-
-
-
-
 }
 
 .box-2{
@@ -53,6 +48,8 @@
   flex-grow: 1;
   height: 200px;
 }
+
+
 
 .box-4{
   height: 110px;

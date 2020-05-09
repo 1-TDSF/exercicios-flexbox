@@ -59,3 +59,17 @@ h1,h2,h3{
   margin-left: 20px;
   margin-bottom: 20px;
 }
+
+.bonito{
+
+  margin: 10px;
+  border: 1px solid black;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+  background-color: yellow;
+}
+
+#inicial{
+  background-color: black;
+}

@@ -22,14 +22,16 @@
 
 .box-2{
   display: flex;
-  height: 150px;
+  height: 120px;
   align-items: center;
 }
 
 .box-3{
   display: flex;
-  height: 250px;
+  height: 300px;
   align-items: center;
+
+
 }
 
 .box-4{
@@ -40,18 +42,21 @@
 
 .box-5{
   flex-basis: 250px;
-  height: 110px;
+  height: 100px;
 
 }
 
 .box-6{
   flex-grow: 1;
-  height: 110px;
+  height: 100px;
 
 }
 
 .box-7{
-  height: 200px;
+  height: 250px;
+  width: 200px;
+  margin-left: 40px;
+
 }
 
 .box-8{

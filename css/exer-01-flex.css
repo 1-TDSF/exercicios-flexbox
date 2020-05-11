@@ -3,6 +3,7 @@
 .container{
   display: flex;
   flex-direction: column;
+  background-color: rgba(182, 78, 231, 0.81) ;
 }
 
 .box{

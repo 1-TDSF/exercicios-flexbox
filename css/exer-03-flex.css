@@ -14,3 +14,131 @@
   margin: 20px;
   padding: 10px;
 }
+
+.box-1{
+  height: 90px;
+  border: 1px solid rgb(242, 247, 249) ;
+  align-items: center;
+}
+
+.box1{
+    height: 70px;
+    border: 1px solid rgb(242, 247, 249) ;
+    flex-basis: 1200px;
+}
+
+.box2{
+    height: 70px;
+    border: 1px solid rgb(242, 247, 249) ;
+    flex-basis: 200px;
+    margin-left: 30px;
+}
+
+
+
+.box-2{
+  height: 50px;
+  align-items: center;
+  border: 1px solid rgb(242, 247, 249) ;
+}
+
+
+.box-3{
+  height: 170px;
+  border: 1px solid rgb(242, 247, 249) ;
+  align-items: center;
+}
+
+
+.box4{
+  height: 150px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 650px;
+  margin-right: 30px;
+}
+
+.box-5{
+  height: 170px;
+  border: 1px solid rgb(242, 247, 249) ;
+  align-items: center;
+}
+
+.box5-1{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+}
+
+.box5-2{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+}
+
+.box5-3{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+
+.box5-4{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+}
+
+
+.box-4{
+  height: 50px;
+  align-items: center;
+  border: 1px solid rgb(242, 247, 249) ;
+}
+
+
+.box8-1{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+}
+
+.box8-2{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+}
+
+.box8-3{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+
+.box8-4{
+  height: 70px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 200px;
+  margin-right: 30px;
+}
+
+.box7{
+  height: 150px;
+  border: 1px solid rgb(242, 247, 249) ;
+  flex-basis: 650px;
+  margin-right: 30px;
+}
+
+
+.box-6{
+  height: 200px;
+  border: 1px solid rgb(242, 247, 249) ;
+  align-items: center;
+}

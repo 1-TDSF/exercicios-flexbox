@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(105, 169, 242);
+}
+
+.box{
+  display: flex;
+  width: 97%;
+  max-width: 1100px;
+  height: 150px;
+  margin: 20px;
+  padding: 10px;
+}

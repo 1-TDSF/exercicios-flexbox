@@ -1,85 +1,45 @@
-@charset "UTF-8";
-
-.container {
-  display: flex;
-  flex-direction: column;
+.box1{
+  border: 1px solid white;
+  width: 750px;
+  height: 380px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  background-color: red;
 }
 
-.box {
-  width: 99%;
-  padding: 10px;
-  border: 1px solid #cccccc;
-  display: block;
+.box2{
+  border: 1px solid white;
+  width: 360px;
+  height: 380px;
+  background-color: red;
 }
 
-.box-1 {
-  flex-basis: 10%;
-  height: 100px;
-  background-color: #f2cf5a;
-  margin: 20px 10px;
-}
-
-.box-2 {
-  display: flex;
-  flex-direction: row;
+.box3{
+  border: 1px solid white;
+  width: 350px;
   height: 200px;
-  background-color: #acf2ba;
-  margin: 10px;
+  margin-right: 20px;
+  background-color: red;
 }
 
-.box-3 {
-  display: flex;
-  height: 400px;
-  background-color: #f5c3f1;
-  margin: 20px 10px;
+.box4{
+  border: 1px solid white;
+  width: 380px;
+  height: 200px;
+  background-color: red;
 }
 
-.box-4 {
-  display: flex;
-  height: 220px;
-  background-color: #9ceef0;
-  margin: 10px 10px 10px 10px;
+.box5{
+  border: 1px solid white;
+  width: 360px;
+  height: 200px;
+  margin-left: 20px;
+  background-color: red;
 }
 
-.box-5, .box-6 {
-  margin: 10px;
-}
-.box-5 {
-  flex-basis: 20%;
-  background-color: #0f9460;
-}
-
-.box-6 {
-  flex-basis: 80%;
-  background-color: #37cb45;
-}
-
-.box-7, .box-8, .box-9, .box-10 {
-  margin: 10px 40px;
-  flex-basis: 25%;
-}
-
-.box-7 {
-  background-color: #b922a8;
-}
-
-.box-8 {
-  background-color: #de2387;
-}
-
-.box-9 {
-  background-color: #e81c4e;
-}
-
-.box-10 {
-  background-color: #a1749f;
-}
-
-.box-11 {
-  flex-basis: 70%;
-  margin: 10px 300px;
-  border-top: none;
-  border-bottom: none;
-  border-left: 2px solid #000000;
-  border-right: 2px solid #000000;
+.box6{
+  border: 1px solid white;
+  width: 1130px;
+  height: 100px;
+  background-color: red;
 }

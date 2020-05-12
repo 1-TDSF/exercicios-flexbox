@@ -1,0 +1,179 @@
+.box1{
+  border: 1px solid blue;
+  margin: 10px;
+  flex-basis: 100px;
+  width: 97%;
+  display: flex;
+}
+
+.box2{
+  background-color: red;
+  border: 1px solid white;
+  margin: 10px;
+  height: 75px;
+  width: 71%;
+  margin-right: 20px;
+}
+
+.box3{
+  border: 1px solid white;
+  margin-top: 10px;
+  height: 75px;
+  width: 25.3%;
+  background-color: red;
+}
+
+.box4{
+  border: 1px solid blue;
+  margin: 10px;
+  height: 35px;
+  width: 97%;
+}
+
+.box5{
+  border: 1px solid blue;
+  margin: 10px;
+  height: 200px;
+  width: 97%;
+  display: flex;
+}
+
+.box6{
+  border: 1px solid white;
+  margin: 10px;
+  height: 180px;
+  width: 50%;
+  display: flex;
+  background-color: red;
+}
+
+.box7{
+  flex-direction: column;
+  border: 0px;
+  margin-top: 10px;
+  height: 100px;
+  width: 22%;
+}
+
+.box8{
+  border: 1px solid white;
+  margin: 0px;
+  height: 85px;
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: red;
+}
+
+.box9{
+  border: 1px solid white;
+  height: 85px;
+  width: 100%;
+  background-color: red;
+}
+
+.box10{
+  flex-direction: column;
+  border: 0px;
+  margin: 10px 10px 10px 20px;
+  height: 100px;
+  width: 25%;
+}
+
+.box11{
+  border: 1px solid white;
+  height: 85px;
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: red;
+}
+
+.box12{
+  border: 1px solid white;
+  height: 85px;
+  width: 100%;
+  background-color: red;
+}
+
+.box13{
+  border: 1px solid blue;
+  margin: 10px;
+  height: 30px;
+  width: 97%;
+}
+
+.box14{
+  border: 1px solid blue;
+  margin: 10px;
+  height: 200px;
+  width: 97%;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.box15{
+  border: 1px solid white;
+  margin: 10px;
+  height: 180px;
+  width: 50%;
+  display: flex;
+  background-color: red;
+}
+
+.box16{
+  flex-direction: column;
+  border: 0px;
+  margin-top: 10px;
+  height: 100px;
+  width: 22%;
+}
+
+.box17{
+  border: 1px solid white;
+  margin: 0px;
+  height: 85px;
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: red;
+}
+
+.box18{
+  border: 1px solid white;
+  height: 85px;
+  width: 100%;
+  background-color: red;
+}
+
+.box19{
+  flex-direction: column;
+  border: 0px;
+  margin: 10px 20px 10px 10px;
+  height: 100px;
+  width: 25%;
+}
+
+.box20{
+  border: 1px solid white;
+  height: 85px;
+  width: 100%;
+  background-color: red;
+  margin-bottom: 10px;
+}
+
+.box21{
+  border: 1px solid white;
+  height: 85px;
+  width: 100%;
+  background-color: red;
+}
+
+.box22{
+  border: 1px solid blue;
+  margin: 10px;
+  height: 75px;
+  width: 97%;
+  margin-right: 20px;
+}
+
+
+
+

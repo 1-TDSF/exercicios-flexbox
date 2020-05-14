@@ -47,9 +47,11 @@
 
 
 .box-3 {
+  height: 200px;
+  width: 97%;
+  margin-left: 40px;
+  border: 1px solid;
   display: flex;
-  flex-basis: 40%;
-  flex-direction: row;
 }
 
 .box-filho3{
@@ -69,4 +71,59 @@
   border-right: 1px solid #008B8B;
   width: 55%;
   height: 80%;
+}
+
+.box3{
+  border: 1px solid;
+  margin: 20px;
+  height: 160px;
+  width: 50%;
+  display: flex;
+  margin-top: 10px;
+}
+
+.box4{
+  flex-direction: column;
+  border: 0px;
+  margin-top: 10px;
+  height: 100px;
+  width: 22%;
+
+}
+
+.box5{
+  border: 1px solid;
+  margin: auto 0%;
+  height: 80px;
+  width: 105%;
+  margin-bottom: 10px;
+}
+
+.box6{
+  border: 1px solid;
+  height: 80px;
+  width: 105%;
+}
+
+.box7{
+  flex-direction: column;
+  border: 0px;
+  margin: 10px 10px 10px 20px;
+  height: 100px;
+  width: 25%
+}
+
+.box8{
+  border: 1px solid;
+  height: 80px;
+  width: 95%;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.box9{
+  border: 1px solid;
+  height: 80px;
+  width: 95%;
+  margin-left: 10px;
 }

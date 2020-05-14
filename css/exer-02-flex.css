@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   padding: 0px;
-  margin: 100px;
+  margin: 200px;
   border: solid 1px #4682B4;
 }
 
@@ -34,47 +34,62 @@
 
 .box-filho1 {
   width: 150%;
-  padding: 221px;
+  padding: 200px;
   border: 1px solid #008B8B;
-  margin-left: 0px;
+  margin-left: 10px;
   margin-bottom: 10px;
 }
 
 .box-filho2 {
   width: 80%;
   border: 1px solid #008B8B;
-  margin-left: 30px;
+  margin-left: 25px;
+  margin-right: 20px;
   margin-bottom: 10px;
 }
 
-.teste-2{
+.box1{
   display: flex;
   flex-basis: 20%;
-  width: 100%;
-  height: 50px;
+  width: 101%;
+  height: 100px;
   margin: 15px auto;
   padding: 1px;
-  max-width: 1366px;
+  max-width: 1387px;
+}
+
+.box2{
+  display: flex;
+  flex-basis: 20%;
+  width: 101%;
+  height: 100px;
+  margin: 15px auto;
+  padding: 1px;
+  max-width: 1387px;
+}
+
+.box3{
+  display: flex;
+  flex-basis: 20%;
+  width: 98%;
+  height: 100px;
+  margin: 15px auto;
+  padding: 60px;
+  max-width: 1387px;
+  border: 1px solid #008B8B;
 }
 
 .box-filho3{
   border: 1px solid #008B8B;
-  width: 20%;
-  height: 90%;
-  margin: 10px 3%;
+  width: 60%;
+  height: 250%;
+  margin-left: 10px;
 }
 
 .box-filho4{
   border: 1px solid #008B8B;
-  width: 20%;
-  height: 90%;
-  margin: 10px 3%;
-}
-
-.box-filho5 {
-  margin: 20px auto;
-  border-left: 1px solid #008B8B;
-  border-right: 1px solid #008B8B;
-  width: 55%;
-  height: 80%;
+  width: 44%;
+  height: 250%;
+  margin-right: 20px;
+  margin-left: 20px;
 }

@@ -1,152 +1,38 @@
 @charset "UTF-8";
-@import "./style-base.css";
 
-
-.box-master{
+.container {
   display: flex;
   flex-direction: column;
-  background-color: rgb(48, 48, 92);
-  padding: 16px;
-  margin: 16px;
-  border-radius: 8px;
-}
-
-.box-row {
-  display: flex;
-  flex-direction: row;
-  flex: 1;
-  margin: 16px;
-  border: 2px solid rgb(225, 255, 232);
-  padding: 16px;
-}
-
-.box-row-fill {
-  display: flex;
-  flex-direction: row;
-  flex: 1;
 }
 
 .box {
-  min-height: 256px;
-  border: 2px solid rgb(225, 255, 232);
+  border: 1px solid #ff0000;
+  display: block;
+  width: 97%;
+  height: 150px;
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 1100px;
 }
 
-.box-grid {
-  min-height: 256px;
-  border: 2px solid rgb(225, 255, 232);
+.box-1 {
+  flex-basis: 10%;
+}
+
+.box-2 {
   display: flex;
-  flex-direction: column;
+  flex-basis: 20%;
 }
 
-#box1 {
-  min-height: 200px;
+
+.box-3 {
+  display: flex;
+  flex-basis: 40%;
+  flex-direction: row;
 }
 
-#box2 {
-  flex-basis: 25%;
-  margin-right: 16px;
-}
 
-#box3 {
-  flex: 1;
-}
 
-#box4, #box5, #box6, #box7 {
-  flex: 1;
-  margin: 0 8px;
-}
-
-#box8, #box9, #box10 {
-  flex: 1;
-}
-
-#box8 {
-  border: 0;
-  border-right: 2px solid rgb(225, 255, 232);
-}
-
-#box9 {
-  border: 0;
-  border-right: 2px solid rgb(225, 255, 232);
-  border-left: 2px solid rgb(225, 255, 232);
-}
-
-#box10 {
-  border: 0;
-  border-left: 2px solid rgb(225, 255, 232);
-}
-
-#box11 {
-  flex-basis: 75%;
-  min-height: 392px;
-  margin-right: 16px;
-}
-
-#box12 {
-  flex: 1;
-}
-
-#box13, #box14, #box15 {
-  min-height: 128px;
-  flex: 1;
-}
-
-#box13 {
-  margin-right: 8px;
-}
-
-#box14 {
-  margin: 0 8px;
-}
-
-#box15 {
-  margin-left: 8px;
-}
-
-#box16 {
-  min-height: 128px;
-}
-
-#box17 {
-  flex-basis: 85%;
-  margin-right: 16px;
-  min-height: 100px;
-}
-
-#box18 {
-  flex: 1;
-  min-height: 100px;
-}
-
-#box19, #box26, #box33 {
-  min-height: 100px;
-}
-
-#box20 {
-  flex-basis: 70%;
-  margin-right: 16px;
-}
-
-#box21, #box27 {
-  flex: 1;
-  border: 0;
-  padding: 0;
-}
-
-#box22, #box23, #box24, #box25, #box28, #box29, #box30, #box31 {
-  flex: 1;
-  min-height: 100%;
-}
-
-#box22, #box24, #box28, #box30 {
-  margin-right: 16px;
-}
-
-#box32 {
-  flex-basis: 70%;
-  margin-left: 16px;
-}
-
-#fill-1, #fill-3 {
-  margin-bottom: 16px;
+.box-4 {
+  flex-basis: 30%;
 }

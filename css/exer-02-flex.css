@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box{
+  display: flex;
+  background-color: #106979;
+  width: 150px;
+  height: 300px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #a49b9d;
+}
+
+.box-1{
+  width: 820px;
+  height: 400px;
+}
+
+.box-2{
+  width: 400px;
+  height: 400px;
+}
+
+.box-3{
+  width: 400px;
+  height: 200px;
+}
+
+.box-4{
+  width: 400px;
+  height: 200px;
+
+}
+
+.box-5{
+  width: 400px;
+  height: 200px;
+
+}
+
+.box-6{
+  width: 1500px;
+  height: 100px;
+}

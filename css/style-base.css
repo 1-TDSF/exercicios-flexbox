@@ -17,3 +17,12 @@ body{
 h1,h2,h3{
   margin: 20px 10px;
 }
+
+.container{
+  width: 95%;
+  height: 900px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #005867;
+  border: 1px solid rgb(1, 64, 84);
+}

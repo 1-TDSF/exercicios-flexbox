@@ -1,69 +1,45 @@
-@charset "UTF-8";
-
-.container {
-  display: flex;
-  flex-direction: column;
+.box1{
+  border: 1px solid white;
+  width: 750px;
+  height: 380px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  background-color: #9AEDE5;
 }
 
-.box{
-  max-width: 1100px;
-  display: flex;
-
+.box2{
+  border: 1px solid white;
+  width: 360px;
+  height: 380px;
+  background-color: #9AEDE5;
 }
 
-.box-1 {
-  height: 350px;
-  margin-bottom: 15px;
-
+.box3{
+  border: 1px solid white;
+  width: 350px;
+  height: 200px;
+  margin-right: 20px;
+  background-color: #9AEDE5;
 }
 
-.box-filho1 {
-  margin: 0 15px 0px 15px;
-  background-color: green;
-  border: 1px solid #000000;
-  flex-basis: 677px;
+.box4{
+  border: 1px solid white;
+  width: 380px;
+  height: 200px;
+  background-color: #9AEDE5;
 }
 
-.box-filho12{
-  margin: 0 15px 0px 15px;
-  background-color: green;
-  border: 1px solid #000000;
-  flex-basis: 323px;
+.box5{
+  border: 1px solid white;
+  width: 360px;
+  height: 200px;
+  margin-left: 20px;
+  background-color: #9AEDE5;
 }
 
-.box-2{
-  height: 150px;
-  margin-bottom: 15px;
-}
-
-.box-filho2{
-  border: 1px solid #000000;
-  margin: 0 15px 0 15px;
-  background-color: yellow;
-  flex-basis: 323px;
-}
-
-.box-filho21{
-  border: 1px solid #000000;
-  margin: 0 15px 0 15px;
-  background-color: yellow;
-  flex-basis: 323px;
-}
-
-.box-filho22 {
-  border: 1px solid #000000;
-  margin: 0 15px 0 15px;
-  background-color: yellow;
-  flex-basis: 323px;
-}
-
-.box-3 {
+.box6{
+  border: 1px solid white;
+  width: 1130px;
   height: 100px;
-}
-
-.box-filho3{
-  border: 1px solid #000000;
-  margin: 0 15px 0 15px;
-  background-color: darkblue;
-  flex-basis: 1030px;
+  background-color: #9AEDE5;
 }
